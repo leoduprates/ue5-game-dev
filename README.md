@@ -5,21 +5,21 @@
 
 Game development project in Unreal 5 engine and C++ with examples and snippets.
 
-## Prerequisites
+## 📋 Prerequisites
 
-1\. Hardware and Software Specifications
+1. Hardware and Software Specifications
 
-```
-https://docs.unrealengine.com/en-US/Basics/RecommendedSpecifications/index.html
-```
+   ```
+   https://docs.unrealengine.com/en-US/Basics/RecommendedSpecifications/index.html
+   ```
 
-2\. Unreal Engine > 4
+2. Unreal Engine > 4
 
-```
-https://www.unrealengine.com/en-US/download
-```
+   ```
+   https://www.unrealengine.com/en-US/download
+   ```
 
-3\. Setup
+## 🔨 Setup
 
 1. Clone the repository.
 
@@ -29,7 +29,16 @@ https://www.unrealengine.com/en-US/download
 
 4. Run the tests through the Development Tool > Session Frontend window > Automation > Project > Functional Tests.
 
-## Game Development
+## 👾 Game Development
 
-1. [Blueprint]()
-2. [C++]()
+1. [Blueprint](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md)
+   - [Objects](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#objects)
+   - [Force and Impulse](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#force-and-impulse)
+   - [Spawning Actors](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#spawning-actors)
+   - [Data Types](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#data-types)
+   - [Vectors](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#what-are-vectors)
+   - [Branch Nodes](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#branch-nodes)
+   - [Functions](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#functions)
+   - [Pure Functions](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#pure-functions)
+   - [Members Functions](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/Blueprint.md#members-functions)
+2. [C++](https://github.com/leoduprates/ue5-game-dev/blob/main/docs/cpp.md)
